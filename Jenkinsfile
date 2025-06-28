@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Clone GitHub Repo') {
             steps {
-                git 'https://github.com/betawins/Python-app.git'
+                git 'https://github.com/Lalitha891/Python-app.git'
             }
         }
 
